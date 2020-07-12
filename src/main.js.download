@@ -1,5 +1,5 @@
 (function(){
-  // Vertical Timeline - by CodyHouse.co
+  // Vertical Timeline adapted from @CodyHouse
 	function VerticalTimeline( element ) {
 		this.element = element;
 		this.blocks = this.element.getElementsByClassName("cd-timeline__block");
